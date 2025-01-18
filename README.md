@@ -1,5 +1,5 @@
 
-## Olá! Me chamo Reginaldo Marques! 👋😁
+## Olá! Eu me chamo Reginaldo Marques!😁
 
 [![My Professional Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldo-marques-b79107220/)
 
