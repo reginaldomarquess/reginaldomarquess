@@ -3,7 +3,7 @@
 
 [![My Professional Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldo-marques-b79107220/)
 
-![Reginaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=reginaldomarquess&show_icons=true&theme=dracula)
+![Reginaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=reginaldomarquess&show_icons=true&theme=gruvbox)
 
 ## Tecnologias que eu uso 
 
